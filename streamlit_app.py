@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Cheerka's Family')
+streamlit.title('Cheerkas Family')
